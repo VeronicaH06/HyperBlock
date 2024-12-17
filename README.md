@@ -1,2 +1,2 @@
 # HyperBlock
-Un blog increible para el cruso  Git y Git hub para el cruso de platzi.
+Un blog increible para el curso  Git y Git hub de platzi.
